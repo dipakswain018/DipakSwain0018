@@ -13,7 +13,7 @@
 - 🎓 MCA Student
 - 🌱 Currently learning **Spring Boot, Angular, AWS & DSA**
 - 💻 Building Java Full Stack Projects
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **ds1137727@gmail.com**
 
 ---
 
