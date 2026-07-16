@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipak Kumar Swain</h1>
-<h3 align="center">Java Full Stack Developer | MCA Student | Spring Boot Enthusiast</h3>
+<h3 align="center">Java Full Stack Developer | MCA Student </h3>
 
 <p align="center">
   <em>"e^(iθ) = cos(θ) + i sin(θ)"</em><br>
@@ -19,7 +19,7 @@
 
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/dipak-kumar-swain-b3204b360/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -37,14 +37,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipakswain018&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakswain018&layout=compact&theme=tokyonight)
 
 ---
 
